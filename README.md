@@ -17,7 +17,7 @@ MyWorkshop: Stock은 간단한 재고 관리 프로그램으로, 프리랜서들
 
 본 문서는 여러 아키텍처 관점들 중에서 실행 측면의 논리관점\(Logical Viewpoint\), 코드 측면의 모듈관점\(Module Viewpoint\), 코드관점\(Code Viewpoint\)을 사용해서 아키텍처를 설계하였다. 관점\(Viewpoint\), 뷰\(View\), 모델\(Model\)들이 관계는 소프트웨어 아키텍처 문서화 표준인 [IEEE:42010](http://www.iso-architecture.org/ieee-1471/)을 따랐다. \(아래 그림 참조\)
 
-![IEEE 42010 표준 모델 중 일부](/assets/architecture-viewpoint-view-model.jpg)
+![IEEE 42010 표준 모델 중 일부](./assets/architecture-viewpoint-view-model.jpg)
 
 ### 상세 설계
 
