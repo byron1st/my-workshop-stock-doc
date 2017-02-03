@@ -56,6 +56,7 @@ src
 개발 중 프로그램 실행은 2번째 생산되는 출력 파일들인 Compiled source code를 이용한다.
 
 ### 3.4 코딩 스탠다드 결정
+[![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
 ## 추적성
 Module View | Code View
